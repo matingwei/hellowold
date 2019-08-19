@@ -1,207 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/Desktop" value="PREVIEW" />
-        <entry key="E:/cluster-core-service" value="PREVIEW" />
-        <entry key="E:/git/jdworkspaces" value="PREVIEW" />
-        <entry key="E:/localCommonPrj/common-model" value="PREVIEW" />
-        <entry key="E:/localCommonPrj/common/models/common-model" value="PREVIEW" />
-        <entry key="E:/localPrj/cluster-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/cluster-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/cluster-core-service-local" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/coner-java-sdk" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/middleware-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/middleware-service-engine" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/moniter-service-engine" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/monitor-service-engine" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/project-core-sdk" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/project-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/project-core-service0320/project-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/project-service-engine" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/rancher-java-sdk" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/rds-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/redis-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/secret-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/standard-admin" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/standard-authentication" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/standard-zuul" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/user-authorization-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/vm-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/vm-core-service-fake" value="PREVIEW" />
-        <entry key="E:/localPrj/core-services/vpc-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/mware-core-service" value="PREVIEW" />
-        <entry key="E:/localPrj/rancher-java-sdk" value="PREVIEW" />
-        <entry key="E:/localPrj/vm-core-service" value="PREVIEW" />
-        <entry key="E:/localUtil/util" value="PREVIEW" />
-        <entry key="E:/openstack/localProject/disk-core-service" value="PREVIEW" />
-        <entry key="E:/openstack/localProject/disk-service-engine" value="PREVIEW" />
-        <entry key="E:/openstack/localProject/network-service-engine" value="PREVIEW" />
-        <entry key="E:/openstack/localProject/vpc-core-service" value="PREVIEW" />
-        <entry key="E:/openstack/multMidplatform/network-service-engine" value="PREVIEW" />
-        <entry key="E:/openstack/multMidplatform/vpc-core-service" value="PREVIEW" />
-        <entry key="E:/openstack/openstack-sdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../JDWorkSpace-On-EasyStack/code" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../clouddesk/jdworkspaces/core-services/workflow-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../clouddesk/workshop/spring-cloud/standard-config" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../common-in-dev/cluster-core-service-eerduosi" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../common-in-dev/common-component/pcMidPlatform/spring-cloud/standard-admin" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../common-in-dev/common-component/pcMidPlatform/spring-cloud/standard-authentication" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../common-in-dev/common-component/pcMidPlatform/spring-cloud/standard-eureka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../common-in-dev/common-component/pcMidPlatform/spring-cloud/standard-zuul" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../common-in-dev/common-component/pcMidPlatform/spring-cloud/user-authorization-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/authorization-server" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/gateway" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/disk-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/disk-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/iaas-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/lbs-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/monitor-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/net-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/net-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/operation-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/operation-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/vm-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iaas/vm-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iam-manager/iam-manager-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/iam-manager/identity-organization-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/quota" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/quota/quota-common/api/quota-api" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/1.0.0-dev-all-three/light/spring-cloud-framework/eureka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/galaxy/star-ring/star-ring" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/galaxy/star-ring/star-ring-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/authorization-server" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/gateway" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/disk-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/disk-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/iaas-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/lbs-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/monitor-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/net-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/net-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/operation-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/operation-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/vm-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iaas/vm-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iam-manager/iam-manager-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/iam-manager/identity-organization-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/quota" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/spring-cloud-framework/admin" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/10.0-dev/light/spring-cloud-framework/eureka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/galaxy/guardian/guardian-authorization-server" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/galaxy/guardian/guardian-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/galaxy/guardian/guardian-core-service-active-directory" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/galaxy/guardian/guardian-resource-server" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/authorization-server" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/devops/pipeline-service-in-kubernetes" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/disk-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/disk-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/iaas-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/net-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/net-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/network-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/operation-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/vm-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iaas/vm-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iam-manager/iam-manager-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/iam-manager/iam-manager-service-client" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/kubernetes/kubernetes-instance-manager/kubernetes-instance-manager-client" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/kubernetes/kubernetes-instance-manager/kubernetes-instance-manager-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/kubernetes/kubernetes-resource-manager/kubernetes-resource-model" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/light/redis/redis-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../csd-sa-dev/net-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../jdworkspace" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../jdworkspaces/core-services/delivery-core-service-easystack" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../jdworkspaces/core-services/delivery-core-service-jdcloud" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../jdworkspaces/core-services/lifecycle-manager-core-service-jdcloud" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../jdworkspaces/core-services/workflow-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../jdworkspaces/core-services/workspace-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/cluster-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/disk-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/standard-authentication" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/standard-eureka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/standard-zuul" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/user-authorization-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/user-console-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/vm-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../m2/vpc-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../manbackend/1.0.0-dev/manBackend/authorization-server" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../manbackend/1.0.0-dev/manBackend/eureka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../manbackend/1.0.0-dev/manBackend/gateway" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../manbackend/1.0.0-dev/manBackend/operation/operation-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../manbackend/1.0.0-dev/manBackend/operation/operation-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../manbackend/1.0.0-dev/manBackend/operation/register-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../manbackend/1.0.0-dev/manBackend/probe/probe-endpoint" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../manbackend/1.0.0-dev/manBackend/probe/probe-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/10.0-dev/light/iaas/disk-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/10.0-dev/light/iam-manager/iam-manager-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-component/pcMidPlatform/spring-cloud/custom-authorization" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-component/pcMidPlatform/spring-cloud/standard-admin" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-component/pcMidPlatform/spring-cloud/standard-authentication" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-component/pcMidPlatform/spring-cloud/standard-eureka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-component/pcMidPlatform/spring-cloud/standard-zuul" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-in-dev/pcMidPlatform/common/models/common-model" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-in-dev/pcMidPlatform/common/models/monitor-sdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-in-dev/pcMidPlatform/common/models/mware-rds-sdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-in-dev/pcMidPlatform/common/models/mware-redis-sdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/common-in-dev/pcMidPlatform/common/models/rds-sdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/cluster-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/configmap-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/container-rds-client" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/container-rds-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/disk-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/lifecycle-manager-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/microservice-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/monitor-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/monitor-service-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/mware-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/mware-service-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/pipeline-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/pod-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/rds-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/redis-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/vm-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/core-service/pcMidPlatform/core-services/vpc-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/iaas/iaas-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/microservice/microservice-project-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/plume/milestone-1/sdk/kubernetes-resource-manager-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../midplatform/user-console/pcMidPlatform/user-console/user-authorization-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/common-in-dev/mulMidPlatform/openstack-sdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/common-in-dev/mulMidPlatform/openstack-sdk-disk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/common-in-dev/mulMidPlatform/openstack-sdk-net" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/common-in-dev/mulMidPlatform/openstack-sdk-vm" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/core-service/compute-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/core-service/iaas-core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/core-service/iaas-service-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/core-service/iass-service-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/core-service/network-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/core-service/network-core-test" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/iass-service-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/network-service-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../mulMidplatform/core-service-in-dev/mulMidPlatform/vpc-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../multMidplatform/core-engine-dev/multMidplatform/network-service-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../multMidplatform/core-sdk-dev/multMidplatform/openstack-sdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../multMidplatform/core-service-dev/multMidplatform/vpc-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../network-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../openstackSdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../pcMidPlatform/core-services/cluster-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../pcMidPlatform/core-services/deployment-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../pcMidPlatform/core-services/ingress-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../pcMidPlatform/core-services/rds-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../pcMidPlatform/core-services/redis-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../pcMidPlatform/core-services/vpc-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../plume/milestone-1/sdk/kubernetes-resource-manager-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../rancher-java-sdk" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../reference/codeDemo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../地精工程师/jd-workspace/core-service-release/jdworkspaces/core-services/lifecycle-manager-core-service-jdcloud" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../地精工程师/jdworkspaces/core-services/lifecycle-manager-core-service-jdcloud" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../地精工程师/plume/milestone-1/sdk/kubernetes-resource-manager-engine" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../微服务交接/microservice-common" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../微服务交接/microservice-project-core-service" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../微服务交接/microservice-system" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../微服务交接/microservice-websocket" value="PREVIEW" />
-      </map>
+  <component name="ChangeListManager">
+    <list default="true" id="fa6ac06f-8713-425c-8528-b743bd00b6c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jdcloud/devops/HelloWorldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/devops/HelloWorldApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jdcloud/devops/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloud/devops/controller/HelloWorldController.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/devops/controller/HelloWorldController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/devops/HelloWorldApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jdcloud</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/devops/HelloWorldApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cloud/devops/controller/HelloWorldController.java" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -209,9 +70,174 @@
     <option name="width" value="1936" />
     <option name="height" value="1176" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hellowold" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellowold" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellowold" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellowold" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellowold" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellowold" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellowold" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellowold" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellowold" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellowold" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellowold" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellowold" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellowold" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellowold" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="devops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hellowold" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hellowold" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="devops" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../helloworld/hellowold/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566208452010" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa6ac06f-8713-425c-8528-b743bd00b6c4" name="Default Changelist" comment="" />
+      <created>1566208269134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566208269134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="0" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32917467" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="风险组件扫描" />
+      <window_info anchor="bottom" id="Duplication Code Results" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/devops/HelloWorldApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cloud/devops/controller/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

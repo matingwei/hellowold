@@ -1,9 +1,8 @@
-package com.jdcloud.devops;
+package com.cloud.devops.controller;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 /**
  * ┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐
@@ -22,13 +21,15 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  * └─────┴────┴────┴───────────────────────┴────┴────┴────┴────┘ └───┴───┴───┘ └───────┴───┴───┘
  * 描述:
  *
- * @author zhangshuo26
- * @create 2019-08-08 11:28
+ * @author
+ * @create 2019-08-08 11:34
  */
-@SpringBootApplication
-@EnableDiscoveryClient
-public class HelloWorldApplication {
-    public static void main(String[] args) {
-        SpringApplication.run(HelloWorldApplication.class, args);
+@RestController
+@RequestMapping("/")
+public class HelloWorldController {
+
+    @GetMapping("/")
+    public Object helloWorld() {
+        return "Hello World!";
     }
 }
