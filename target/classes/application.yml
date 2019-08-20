@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: devops-demo
+  http:
+    encoding:
+      charset: UTF-8
+      force: true
+      force-request: true
+      force-response: true
+      enabled: true
+
+server:
+  port: 8888
+#  enable-csrf: true
+  tomcat:
+    uriEncoding: UTF-8
+
